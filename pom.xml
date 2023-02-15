@@ -371,7 +371,7 @@
       <dependency>
         <groupId>org.sonatype.nexus</groupId>
         <artifactId>nexus-plugin-api</artifactId>
-        <version>3.43.0-SNAPSHOT</version>
+        <version>3.45.1-01</version>
       </dependency>
 
       <dependency>
